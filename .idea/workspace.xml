@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79c0371d-8e66-4fce-ae9f-868b95d59d46" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sorts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorts.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Sorts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9207">
-              <caret line="297" column="33" lean-forward="true" selection-start-line="297" selection-start-column="33" selection-end-line="297" selection-end-column="33" />
+            <state relative-caret-position="366">
+              <caret line="253" column="24" selection-start-line="253" selection-start-column="16" selection-end-line="253" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -101,7 +102,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1750" />
@@ -113,6 +114,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,7 +132,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,10 +186,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22989276" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19369973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -219,6 +219,19 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/LinkedList.java" />
     <entry file="file://$PROJECT_DIR$/src/Delete.java" />
+    <entry file="file://$PROJECT_DIR$/排序.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sorts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="253" column="24" selection-start-line="253" selection-start-column="16" selection-end-line="253" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -251,19 +264,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/排序.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sorts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9207">
-          <caret line="297" column="33" lean-forward="true" selection-start-line="297" selection-start-column="33" selection-end-line="297" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

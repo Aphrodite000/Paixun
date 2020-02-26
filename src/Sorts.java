@@ -169,6 +169,7 @@ public class Sorts {
     private static void createHeap(int[] array, int length) {
         for (int i = (length - 2) / 2; i >= 0; i--) {
             heapify(array, length, i);
+            //i是父下标
         }
     }
 
